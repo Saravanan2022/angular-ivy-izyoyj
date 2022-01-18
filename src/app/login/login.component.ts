@@ -14,6 +14,10 @@ export class LoginComponent implements OnInit {
   welcomeApplication() {
     alert("Welcome to Login Page")
   }
+  
+  resetApplication() {
+    alert("Are you sure to quit the application")
+  }
 
 
 
